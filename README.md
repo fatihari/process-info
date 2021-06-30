@@ -66,3 +66,16 @@ pid                     commandline
 ### with -k argument
 
 Process xx was killed...
+
+
+
+## Screenshots from the Program 
+
+![2012510003_result1](https://user-images.githubusercontent.com/57245919/123986127-b64e3080-d9ce-11eb-9acf-a7fa7070a405.png)
+
+![2012510003_result2](https://user-images.githubusercontent.com/57245919/123986146-bb12e480-d9ce-11eb-99cf-42b15ea48a70.png)
+
+![2012510003_result3](https://user-images.githubusercontent.com/57245919/123986158-bea66b80-d9ce-11eb-9609-545a41add929.png)
+
+
+
